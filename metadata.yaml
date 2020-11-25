@@ -1,5 +1,8 @@
 _repo: A-letter-to-the-Rev-Charles-N-Wodehouse-Canon-of-Norwich-occasioned-by-his-recent-publication__63727
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63727-h/images/cover.jpg
 creator:
   author:
     agent_name: Campbell, Charles
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52574'
     url: http://www.gutenberg.org/2009/agents/52574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63727#A-letter-to-the-Rev-Charles-N-Wodehouse-Canon-of-Norwich-occasioned-by-his-recent-publication_
 gutenberg_issued: '2020-11-12'
 gutenberg_type: Text
 identifiers:
