@@ -1,0 +1,28 @@
+_repo: A-letter-to-the-Rev-Charles-N-Wodehouse-Canon-of-Norwich-occasioned-by-his-recent-publication__63727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campbell, Charles
+    birthdate: 1791
+    deathdate: 1878
+    gutenberg_agent_id: '52574'
+    url: http://www.gutenberg.org/2009/agents/52574
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England. Thirty-nine Articles'
+- !lcsh 'Church of England -- Liturgy'
+- !lcsh 'Wodehouse, C. N. (Charles Nourse), 1790-1870. What is the meaning of subscription?'
+- !lcc 'BX'
+- GITenberg
+title: "A letter to the Rev. Charles N. Wodehouse, Canon of Norwich, occasioned by\
+  \ his recent publication, entitled, \"What is the meaning of Subscription?\"\r\n\
+  with a few observations on the speech &c. of the Lord Bishop of Norwich, on Subscription"
+url: http://www.gutenberg.org/ebooks/63727
